@@ -162,6 +162,17 @@ df.dtypes
     hubkel                 object
     dtype: object
 
+## Menentukan Usia penduduk
+
+Penentuan usia berdasarkan selisih antara usia penduduk dengan tahun ini yaitu 2019. Selanjutnya dibuat kolom baru untuk penentuan usia. Source code bisa dilihat seperti dibawah
+
+
+```python
+#membuat kolom usia
+thn = thnLahir.astype(int)
+usia = 2019 - thn
+gakinSBY['usia'] = usia
+```
 
 
 ## Mengubah menjadi format tanggal
