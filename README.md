@@ -5,7 +5,7 @@ Data milik Pemkot Surabaya
 ### About Dataset
 Dataset yang digunakan adalah data penduduk keluarga yang berpenghasilan rendah antara usia 15 – 45 tahun di seluruh kota Surabaya. Data terdiri dari 6 kolom yaitu NIK, tanggal lahir, jenis kelamin, deskripsi pekerjaan, pendidikan, dan hubungan keluarga. Baris dari dataset tersebut adalah sebanyak 386507.
 
-Praprocessing data dilakukan untuk menambahkan atribut untuk menunjang keperluan visualisasi data. Sehingga, data mempunyai 8 atribut setelah dilakukan praprocessing data.
+Praprocessing data dilakukan untuk menambahkan atribut untuk menunjang keperluan visualisasi data. Sehingga, data mempunyai 9 atribut setelah dilakukan praprocessing data.
 
 Disini akan ditampilkan 15 visualisasi dari 30 insight yang dibuat. Selain dikategorikan berdasarkan gender, pendidikan akhir, status dalam keluarga, dan usia, visualisasi tersebut akan dibagi berdasarkan masing-masing kecamatan.
 
@@ -26,6 +26,7 @@ Disini akan ditampilkan 15 visualisasi dari 30 insight yang dibuat. Selain dikat
 1. Keluarga Miskin
 2. Pendidikan Terakhir Pekerja
 3. Usia Pekerja
+4. Pekerjaan Gakin
 
 ### Creator
 - Gamal Akbar Adzanni
