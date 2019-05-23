@@ -72,7 +72,7 @@ Pada tahap ini, akan mencari selisih dari waktu saat ini dengan tanggal lahir pe
 5. Persentase istri yang bekerja 
 6. Persentase pendidikan kepala keluarga 
 7. Jumlah anak dengan usia wajib sekolah (10-20 tahun) tetapi belum bersekolah 
-8. Jumlah istri yang berusia dibawah 18 tahun  
+8. Jumlah istri yang berusia dibawah 20 tahun  
 9. Jumlah kepala keluarga yang tidak memiliki pekerjaan tetap (ex : Buruh Harian lepas, Karyawan honorer) 
 10. Jumlah anak yang mampu berkuliah (Mahasiswa) 
 
